@@ -1,0 +1,2 @@
+un bucket es una carpeta en la nube para guardar archivos
+en general 1 bucket esta relaciona con 1 app
